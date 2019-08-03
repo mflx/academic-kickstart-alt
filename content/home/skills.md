@@ -16,19 +16,19 @@ subtitle = ""
 
 [[feature]]
   icon = "project-diagram"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "ProductMgmt"
   description = "90%"
   
 [[feature]]
   icon = "at"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Digital DNA"
   description = "99%"  
   
 [[feature]]
   icon = "compact-disc"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Retired DJ"
   description = "30%"
 
