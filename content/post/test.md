@@ -1,5 +1,5 @@
 ---
-title: An test example title
+title: Warum darum
 summary: Here we describe how to add a page to your site.
 date: "2019-06-28T00:00:00Z"
 
@@ -14,9 +14,12 @@ header:
   image: ""
 ---
 
-# Warum darum
-
 Neben Focus und einer Organisation, die sich entlang der Wertschöpfungskette bildet und auf Flow optimiert, halte ich eine klare Vision und Purpose für eines der wichtigsten Instrumente im PM.
 
 Klarer Purpose und Vision für das Produkt oder Company ist kein Bonus, sondern absolut essentiell für agile, selbstorganisierte Teams. Ohne Klarheit ziehen die Team in verschiedene Richtungen, das Produkt entwickelt sich nicht nach vorne und verliert wertvolle Traction.
 In einem Umfeld von selbstorganisierten Teams bedeutet nicht zwingend, dass der Purpose bottom-up erbeitet wird, sondern erstmal, dass es diesen gibt und auch allen bekannt ist.
+* Klare Aussagen
+* Klare Sprache
+* Transparente Transparenz
+
+Ende.
