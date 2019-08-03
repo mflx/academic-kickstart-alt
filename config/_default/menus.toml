@@ -19,8 +19,8 @@
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "Microblog"
+  url = "https://mflx.eu"
   weight = 40
 
 [[main]]
