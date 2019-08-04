@@ -63,6 +63,10 @@ user_groups:
 - Visitors
 ---
 
-Martin is a cool guy.
+Product Manager and Product Lead in Startups for over a decade. Now Coaching, Training and Consulting for Digital Product Management.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Things I do:
+- Trainings in Agile Product Management and Product Leadership
+- Coaching and Consulting in Product Management, Strategy, Scaling
+- Cross-Functional Product Development Team available with Leanovate
+- Interim roles
