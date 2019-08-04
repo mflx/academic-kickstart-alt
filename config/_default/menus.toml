@@ -19,7 +19,7 @@
   weight = 30
 
 [[main]]
-  name = "Microblog"
+  name = "Miniblog ➝"
   url = "https://mflx.eu"
   weight = 40
 
