@@ -25,6 +25,7 @@ Things I do:
 - Coaching and Consulting in Product Management, Strategy, Scaling
 - Cross-Functional Product Development Team available with Leanovate
 - Interim roles
+- Agile Camp Berlin orga team member
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
