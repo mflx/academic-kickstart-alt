@@ -20,13 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Product Manager and Product Lead in Startups for over a decade. Now Coaching, Training and Consulting for Digital Product Management.
 
-Things I do:
-- Trainings in Agile Product Management and Product Leadership
-- Coaching and Consulting in Product Management, Strategy, Scaling
-- Cross-Functional Product Development Team available with Leanovate
-- Interim roles
-- Agile Camp Berlin orga team member
-
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -72,6 +65,7 @@ Things I do:
 * Trainings in [Agile Product Management and Product Leadership](https://www.leanovate.de/training/produkt/)
 * Cross-Functional Product Development Team available with Leanovate
 * Interim roles
+* [Agile Camp Berlin](https://agile-camp-berlin.com/) founding team member
 
 Background in Philosophy, Political Science, Economics, Systems Thinking
 
