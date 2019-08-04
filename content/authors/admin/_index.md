@@ -63,7 +63,7 @@ user_groups:
 - Visitors
 ---
 
-I'm a Digital Product Manager and Product Lead in Startups for over a decade. Now Coaching, Training and Consulting for Digital Product Management. Based in Berlin.
+Digital Product Manager and Product Lead in Startups for over a decade. Now Coaching, Training and Consulting for Digital Product Management. Based in Berlin.
 
 Things I do:
 
