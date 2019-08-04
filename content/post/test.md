@@ -24,5 +24,9 @@ This is how we work: grass-roots, self-organised, lean. It started in Software D
 
 The biggest leverage in building digital products are clear focus and short feedback cycles.
 
+--
+
+Photo credit: [NESA by Makers](https://unsplash.com/@nesabymakers)
+
 
 
