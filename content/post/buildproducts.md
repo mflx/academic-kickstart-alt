@@ -8,6 +8,12 @@ share: false  # Show social sharing links?
 profile: true  # Show author profile?
 comments: false  # Show comments?
 
+links:
+  - icon_pack: fab
+    icon: linkedin
+    name: Product Owner cargo cult detection checklist
+    url: 'https://www.linkedin.com/pulse/product-owner-cargo-cult-detection-checklist-martin-stahl/'
+
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: "Product development team"
@@ -26,11 +32,6 @@ The biggest leverage in building digital products are clear focus and short feed
 
 Collection of thoughts on Product Management (in German): [maccorama miniblog](https://mflx.eu/).
 
-links:
-  - icon_pack: fab
-    icon: linkedin
-    name: Product Owner cargo cult detection checklist
-    url: 'https://www.linkedin.com/pulse/product-owner-cargo-cult-detection-checklist-martin-stahl/'
 
 --
 
