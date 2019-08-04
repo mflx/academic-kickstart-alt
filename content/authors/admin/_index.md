@@ -63,11 +63,11 @@ user_groups:
 - Visitors
 ---
 
-Product Manager and Product Lead in Startups for over a decade. Now Coaching, Training and Consulting for Digital Product Management.
+I'm a Digital Product Manager and Product Lead in Startups for over a decade. Now Coaching, Training and Consulting for Digital Product Management. Based in Berlin.
 
 Things I do:
 
-* Trainings in Agile Product Management and Product Leadership
 * Coaching and Consulting in Product Management, Strategy, Scaling
+* Trainings in (Agile Product Management and Product Leadership)[https://www.leanovate.de/training/produkt/]
 * Cross-Functional Product Development Team available with Leanovate
 * Interim roles
