@@ -68,6 +68,6 @@ I'm a Digital Product Manager and Product Lead in Startups for over a decade. No
 Things I do:
 
 * Coaching and Consulting in Product Management, Strategy, Scaling
-* Trainings in (Agile Product Management and Product Leadership)[https://www.leanovate.de/training/produkt/]
+* Trainings in [Agile Product Management and Product Leadership](https://www.leanovate.de/training/produkt/)
 * Cross-Functional Product Development Team available with Leanovate
 * Interim roles
