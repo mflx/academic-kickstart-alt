@@ -71,3 +71,5 @@ Things I do:
 * Trainings in [Agile Product Management and Product Leadership](https://www.leanovate.de/training/produkt/)
 * Cross-Functional Product Development Team available with Leanovate
 * Interim roles
+
+Background in Philosophy, Political Science, Economics, Systems Thinking
