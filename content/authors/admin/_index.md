@@ -20,23 +20,11 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Product Manager and Product Lead in Startups for over a decade. Now Coaching, Training and Consulting for Digital Product Management.
 
-offerings:
+Things I do:
 - Trainings in Agile Product Management and Product Leadership
 - Coaching and Consulting in Product Management, Strategy, Scaling
 - Cross-Functional Product Development Team available with Leanovate
 - Interim roles
-
-education:
-  courses:
-  - course: Certified Scrum Professional (CSP-PO)
-    institution: Scrum Alliance
-    year: 2016
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -46,15 +34,19 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/mflx
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/martinstahl/
+- icon: xing
+  icon_pack: fab
+  link: https://www.xing.com/profile/Martin_Stahl4
 - icon: mastodon
   icon_pack: fab
   link: https://mstdn.io/@mflx
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/mflx
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -62,7 +54,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "marflixone@gmail.com"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
