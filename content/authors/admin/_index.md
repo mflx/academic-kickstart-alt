@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Product Management Coach
+role: Product Owner / Product Coach & Consultant
 
 # Organizations/Affiliations
 organizations:
@@ -18,18 +18,19 @@ organizations:
   url: "https://www.leanovate.de"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Coaching, Training and Consulting for Digital Product Management
+bio: Product Manager and Product Lead in Startups for over a decade. Now Coaching, Training and Consulting for Digital Product Management.
 
-interests:
-- Agile
-- System Thinking
-- Building digital business models
+offerings:
+- Trainings in Agile Product Management and Product Leadership
+- Coaching and Consulting in Product Management, Strategy, Scaling
+- Cross-Functional Product Development Team available with Leanovate
+- Interim roles
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  - award: Certified Scrum Professional (CSP-PO)
+    institution: Scrum Alliance
+    year: 2016
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
