@@ -73,3 +73,5 @@ Things I do:
 * Interim roles
 
 Background in Philosophy, Political Science, Economics, Systems Thinking
+
+Besides that I run [Faluma Music](https://www.faluma.com) - a music label for the sound of the Caribbean Carnival. Also find my [personal blog here](https://koffi.club).
