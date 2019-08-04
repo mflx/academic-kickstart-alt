@@ -66,7 +66,8 @@ user_groups:
 Product Manager and Product Lead in Startups for over a decade. Now Coaching, Training and Consulting for Digital Product Management.
 
 Things I do:
-- Trainings in Agile Product Management and Product Leadership
-- Coaching and Consulting in Product Management, Strategy, Scaling
-- Cross-Functional Product Development Team available with Leanovate
-- Interim roles
+
+* Trainings in Agile Product Management and Product Leadership
+* Coaching and Consulting in Product Management, Strategy, Scaling
+* Cross-Functional Product Development Team available with Leanovate
+* Interim roles
