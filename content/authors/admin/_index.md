@@ -28,7 +28,7 @@ offerings:
 
 education:
   courses:
-  - award: Certified Scrum Professional (CSP-PO)
+  - course: Certified Scrum Professional (CSP-PO)
     institution: Scrum Alliance
     year: 2016
   - course: MEng in Artificial Intelligence
@@ -49,6 +49,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/mflx
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/martinstahl/
 - icon: mastodon
   icon_pack: fab
   link: https://mstdn.io/@mflx
