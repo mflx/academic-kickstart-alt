@@ -67,6 +67,6 @@ Things I do:
 * Interim roles
 * [Agile Camp Berlin](https://agile-camp-berlin.com/) founding team member
 
-Background in Philosophy, Political Science, Economics, Systems Thinking
+Background in Philosophy, Political Science, Economics, Systems Thinking.
 
 Besides that I run [Faluma Music](https://www.faluma.com) - a music label for the sound of the Caribbean Carnival. Also find my [personal blog here](https://koffi.club).
