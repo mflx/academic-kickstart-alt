@@ -1,11 +1,11 @@
 ---
-title: Warum darum
-summary: Here we describe how to add a page to your site.
-date: "2019-06-28T00:00:00Z"
+title: Building digital Products
+summary: What I believe and how I work when building digital products.
+date: "2019-08-02T00:00:00Z"
 
 reading_time: true  # Show estimated reading time?
 share: false  # Show social sharing links?
-profile: false  # Show author profile?
+profile: true  # Show author profile?
 comments: false  # Show comments?
 
 # Optional header image (relative to `static/img/` folder).
