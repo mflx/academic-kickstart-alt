@@ -1,9 +1,9 @@
 ---
-title: Shared Leadership in Product Development Teams
+title: Enforcing Leadership in Product Development Teams
 event: 20×20 Agile Night
-event_url: http://www.productcampberlin.org/
+event_url: https://www.meetup.com/de-DE/20x20-Agile-Night/
 location: Berlin, Deutschland
-summary: Share your leadership tasks with agile roles.
+summary: Share your leadership tasks with agile roles and help your team grow.
 abstract: "Short talk in Pecha Kucha format on how you share different aspects of leadership within a product development team."
 
 # Talk start and end times.
