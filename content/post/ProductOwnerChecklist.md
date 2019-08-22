@@ -28,16 +28,16 @@ Well, I personally think that the Product Owner role is the perfect tool for cre
 
 Here's a quick checklist with things I find crucial for the Product Owner role to be successfull. 
 
-- [x] I know what my product.
-- I know (or crafted) the product vision and I'm communicating it actively.
-- I know the value proposition of the product.
-- I follow a product strategy, aligned with the vision, to maximize the value of the product - for the users and the business.
-- I know my users (and customers) and I'm receiving regular feedback from them.
-- I know the impact of the product on the user.
-- I understand my organization's goals and how the product is contributing to them.
-- I have a holistic view on the organizational system surrounding the value chain of the product.
-- I spend as much time as possible together / co-located with my product development team.
-- My decisions are respected within the organization.
+- [x] I know what my product is and can describe it anytime.
+- [x] I know (or crafted) the product vision and I'm communicating it actively.
+- [x] I know the value proposition of the product.
+- [x] I follow a product strategy, aligned with the vision, to maximize the value of the product - for the users and the business.
+- [x] I know my users (and customers) and I'm receiving regular feedback from them.
+- [x] I know the impact of the product on the user.
+- [x] I understand my organization's goals and how the product is contributing to them.
+- [x] I have a holistic view on the organizational system surrounding the value chain of the product.
+- [x] I spend as much time as possible together / co-located with my product development team.
+- [x] My decisions are respected within the organization.
 
 There is a lot more in the life of product people and many books and blog articles have been writing about this:
 
