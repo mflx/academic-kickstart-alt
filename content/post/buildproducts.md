@@ -8,13 +8,6 @@ share: false  # Show social sharing links?
 profile: true  # Show author profile?
 comments: false  # Show comments?
 
-links:
-  - icon_pack: fab
-    icon: linkedin
-    name: Product Owner cargo cult detection checklist
-    url: 'https://www.linkedin.com/pulse/product-owner-cargo-cult-detection-checklist-martin-stahl/'
-
-# Optional header image (relative to `static/img/` folder).
 header:
   caption: "Product development team"
   image: "nesa-by-makers.jpg"
@@ -35,7 +28,7 @@ Collection of thoughts on Product Management (in German): [maccorama miniblog](h
 
 --
 
-Photo credit: [NESA by Makers](https://unsplash.com/@nesabymakers)
+Photo credit: [NESA by Makers](https://unsplash.com/@nesabymakers) on unsplash.
 
 
 
