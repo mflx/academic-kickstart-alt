@@ -3,8 +3,8 @@ title: Build your product organization with Lego® Serious Play®
 event: Product Camp 2017
 event_url: http://www.productcampberlin.org/
 location: Berlin, Deutschland
-summary: Build your product organization with Lego Serious Play
-abstract: "Workshop with Martin and Nils at productcamp Berlin 10.2017.: Intro in the LSP (Lego Serious Play) framework. Creating your product organisation with Lego in small groups and discuss, what different organisational designs meen for product development. Debriefing."
+summary: Visualize, build and understand your product organization.
+abstract: "Intro in the LSP (Lego Serious Play) framework. Warmup building. Creating your product organisation with Lego® in small groups and discuss, what different organisational designs meen for product development. Debriefing."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -53,4 +53,6 @@ projects:
 # Enable math on this page?
 math: false
 ---
+
+Facilitation: [Nils von Harlessem](https://www.linkedin.com/in/nilsvh/), Martin
 
