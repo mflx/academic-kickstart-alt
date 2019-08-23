@@ -15,7 +15,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2018-06-01T20:00:00Z"
 
-authors: [Martin], [Heike]
+authors: [Martin]
 tags: [self-organizing, agile, consulting, liberating-structures]
 
 # Is this a featured talk? (true/false)
