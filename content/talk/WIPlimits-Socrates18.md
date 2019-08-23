@@ -4,7 +4,7 @@ event: SoCraTes Day 2018
 event_url: http://www.socratesday.berlin/
 location: Berlin, Germany
 summary: How a limited work in progress will enforce the focus (and cycle time).
-abstract: "One of the very usefull things we can learn from Kanban are WIP Limits. We'll look at some typical team boards and discuss, how a WIP Limit can help you team to focus and improve performance."
+abstract: "One of the very usefull things we can learn from Kanban are WIP Limits. We'll look at some typical team boards and discuss, how a WIP Limit can help your team to focus and improve performance."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
