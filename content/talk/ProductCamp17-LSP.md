@@ -30,6 +30,11 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/mflx
+- icon: linkedin
+  icon_pack: fab
+  name: Nils
+  url: https://www.linkedin.com/in/nilsvh/
+
 url_code: ""
 url_pdf: ""
 url_slides: ""
