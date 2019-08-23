@@ -28,7 +28,7 @@ image:
 links:
 - icon: twitter
   icon_pack: fab
-  name: Follow
+  name: Martin
   url: https://twitter.com/mflx
 url_code: ""
 url_pdf: ""
