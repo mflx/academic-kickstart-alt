@@ -22,7 +22,7 @@ tags: [self-organizing, agile, consulting, liberating-structures]
 featured: false
 
 image:
-  caption: 'Liberating Structures'
+  caption: '[Liberating Structures](https://pbs.twimg.com/media/D8h2NIUW4AAXmMY.jpg)'
   focal_point: Right
 
 links:
@@ -58,3 +58,5 @@ Our workshop for this year's UXCamp Europe deals with the topic of how to work o
 The focus is not only on the benefit of the knowledge available in the company, but also on the change of perspective - a central point in systemic work.
 
 Format: [Troika Consulting](http://www.liberatingstructures.com/8-troika-consulting%20/) from the [Liberation Structures](http://www.liberatingstructures.com/). 
+
+Facilitation: Heike, Martin
