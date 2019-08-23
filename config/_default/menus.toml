@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Sessions"
-  url = "#projects"
+  url = "#talks"
   weight = 30
 
 [[main]]
