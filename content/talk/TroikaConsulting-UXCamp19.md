@@ -28,8 +28,12 @@ image:
 links:
 - icon: twitter
   icon_pack: fab
-  name: Follow
+  name: Martin
   url: https://twitter.com/mflx
+- icon: twitter
+  icon_pack: fab
+  name: Heike
+  url: https://twitter.com/hemba
 url_code: "https://mflx.eu/materialien-zur-session-troika-consulting-auf-dem-uxcamp-europe-2019"
 url_pdf: ""
 url_slides: ""
@@ -59,4 +63,4 @@ The focus is not only on the benefit of the knowledge available in the company, 
 
 Format: [Troika Consulting](http://www.liberatingstructures.com/8-troika-consulting%20/) from the [Liberation Structures](http://www.liberatingstructures.com/). 
 
-Facilitation: Heike, Martin
+Facilitation: [Heike Röttgers](https://twitter.com/hemba), Martin
