@@ -1,10 +1,10 @@
 ---
-title: Enforce focus in your product development teams with WIP limits
+title: More focus in your development team with WIP limits
 event: SoCraTes Day 2018
 event_url: http://www.socratesday.berlin/
 location: Berlin, Germany
-summary: How a limited work in progress will enforce focus
-abstract: "One of the very usefull things we can learn from Kanban are WIP Limits. We look at some board and discuss, how a WIP Limit can help you team to focus."
+summary: How a limited work in progress will enforce the focus (and cycle time).
+abstract: "One of the very usefull things we can learn from Kanban are WIP Limits. We'll look at some typical team boards and discuss, how a WIP Limit can help you team to focus and improve performance."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
