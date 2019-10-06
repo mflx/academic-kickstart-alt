@@ -3,7 +3,7 @@ title: Product Coaching
 event: Product Camp 2019
 event_url: http://www.productcampberlin.org/
 location: Berlin, Deutschland
-summary: Product Coaching - what it could do
+summary: Product Coaching - what it is and what it could do.
 abstract: "What is Product Coaching, how can it help you and your organization, how does it differ to a regular Agile Coach / team coach."
 
 # Talk start and end times.
@@ -59,9 +59,9 @@ math: false
 Talk about the concept of Product Coaching. Consept is still MVP and I appreciate all feedback. Slides are available [here](https://docs.google.com/presentation/d/1a43WGB1Pw1mHlBL0ZaYBLkz2llx3dBmlMFPiZUa0JTE/edit?usp=sharing).
 
 Feedback:
-Mayra on [twitter](https://twitter.com/infodesignerd/status/1180414921235931136)
-Raimo on [twitter](https://twitter.com/rradczewski/status/1180422444450013184)
-Büşra on [twitter](https://twitter.com/_beesea_/status/1180553314355818501)
-Karla on [twitter](https://twitter.com/karlawithakey/status/1180410454876868608)
-Taxitweets on [twitter](https://twitter.com/taxitweets/status/1180408252699435008)
+* Mayra on [twitter](https://twitter.com/infodesignerd/status/1180414921235931136)
+* Raimo on [twitter](https://twitter.com/rradczewski/status/1180422444450013184)
+* Büşra on [twitter](https://twitter.com/_beesea_/status/1180553314355818501)
+* Karla on [twitter](https://twitter.com/karlawithakey/status/1180410454876868608)
+* Taxitweets on [twitter](https://twitter.com/taxitweets/status/1180408252699435008)
 
