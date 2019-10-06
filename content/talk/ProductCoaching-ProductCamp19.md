@@ -58,3 +58,10 @@ math: false
 
 Talk about the concept of Product Coaching. Consept is still MVP and I appreciate all feedback. Slides are available [here](https://docs.google.com/presentation/d/1a43WGB1Pw1mHlBL0ZaYBLkz2llx3dBmlMFPiZUa0JTE/edit?usp=sharing).
 
+Feedback:
+Mayra on [twitter](https://twitter.com/infodesignerd/status/1180414921235931136)
+Raimo on [twitter](https://twitter.com/rradczewski/status/1180422444450013184)
+Büşra on [twitter](https://twitter.com/_beesea_/status/1180553314355818501)
+Karla on [twitter](https://twitter.com/karlawithakey/status/1180410454876868608)
+Taxitweets on [twitter](https://twitter.com/taxitweets/status/1180408252699435008)
+
