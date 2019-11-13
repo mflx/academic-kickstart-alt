@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Product Management Coach & Consultant
+role: Coaching and Consulting Lead
 
 # Organizations/Affiliations
 organizations:
