@@ -57,13 +57,13 @@ user_groups:
 - Visitors
 ---
 
-Digital Product Manager and Product Lead in Startups for over a decade. Now Coaching and Consulting Lead at Leanovate. Based in Berlin.
+Digital Product Manager and Product Lead in Startups for over a decade. Now Coaching and Consulting Lead at Leanovate, Berlin.
 
 Things I do:
 
-* Coaching and Consulting in Product Management, Strategy, Scaling
+* Coaching and Consulting in Product Management, Product Strategy, Scaling
 * Trainings in [Agile Product Management and Product Leadership](https://www.leanovate.de/training/produkt/)
-* Interim roles
+* Systemic Business Coaching
 * [Agile Camp Berlin](https://agile-camp-berlin.com/) founding team member
 
 Background in Philosophy, Political Science, Economics, Systems Thinking.
