@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Continuous learning"
-subtitle = "Continuous learning and development of skills is a professional standard."
+subtitle = "Continuous learning and ongoing development of skills is one of my professional standards."
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -20,14 +20,14 @@ date_format = "Jan 2006"
 
 
 [[item]]
-  organization = "University of Applied Science Wismar"
+  organization = "University of Applied Sciences Wismar"
   organization_url = "https://www.wings.hs-wismar.de/"
   title = "Systemischer Business Coach"
   url = ""
   certificate_url = ""
   date_start = "2019-10-26"
   date_end = ""
-  description = "a"
+  description = "Systemic Coaching process based on the Kepner- & Tregoe method the self-learning Rubikon modell based on Heckhausen."
 
 
 [[item]]
@@ -49,7 +49,7 @@ date_format = "Jan 2006"
   certificate_url = "https://edu.leankanban.com/users/martin-stahl"
   date_start = "2018-03-01"
   date_end = ""
-  description = "Manage and evolve a kanban initiative. Scale beyond the team level."
+  description = "I: The core of kanban practices to design and evolve a kanban system. II: Manage and evolve a kanban initiative. Scale beyond the team level."
   
 [[item]]
   organization = "ICAgile"
@@ -59,6 +59,6 @@ date_format = "Jan 2006"
   certificate_url = "https://icagile.com/Agile-Professionals/Find-Agile-Professionals/ctl/UserDetails/mid/938/uid/f8fbef70-5851-4263-baf2-1c2e18b8d86a"
   date_start = "2019-03-09"
   date_end = ""
-  description = ""
+  description = "The Shiftup Business Agility & Innovation Leader - applying Lean-Agile thinking to all aspects of business innovation."
 
 +++
