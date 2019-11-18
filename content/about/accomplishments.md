@@ -5,8 +5,8 @@ headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
-subtitle = ""
+title = "Continuous learning"
+subtitle = "Continuous learning and development of skills is a professional standard."
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -18,6 +18,18 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+[[item]]
+  organization = "University of Applied Science Wismar"
+  organization_url = "https://www.wings.hs-wismar.de/"
+  title = "Systemischer Business Coach"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-10-26"
+  date_end = ""
+  description = "a"
+
+
 [[item]]
   organization = "Scrum Alliance"
   organization_url = "https://scrumalliance.org"
@@ -26,17 +38,8 @@ date_format = "Jan 2006"
   certificate_url = "https://www.scrumalliance.org/community/profile/mstahl7"
   date_start = "2017-11-01"
   date_end = ""
-  description = ""
+  description = "Certified Scrum Professionals challenge their teams to improve the way Scrum and Agile principles are applied. They have demonstrated experience, documented training, and proven knowledge in Scrum."
 
-[[item]]
-  organization = "ICAgile"
-  organization_url = "https://icagile.com"
-  title = "ICAgile Certified Professional - Business Agility Foundations"
-  url = ""
-  certificate_url = "https://icagile.com/Agile-Professionals/Find-Agile-Professionals/ctl/UserDetails/mid/938/uid/f8fbef70-5851-4263-baf2-1c2e18b8d86a"
-  date_start = "2019-03-09"
-  date_end = ""
-  description = ""
   
 [[item]]
   organization = "Kanban University"
@@ -45,6 +48,16 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = "https://edu.leankanban.com/users/martin-stahl"
   date_start = "2018-03-01"
+  date_end = ""
+  description = "Manage and evolve a kanban initiative. Scale beyond the team level."
+  
+[[item]]
+  organization = "ICAgile"
+  organization_url = "https://icagile.com"
+  title = "ICAgile Certified Professional - Business Agility Foundations"
+  url = ""
+  certificate_url = "https://icagile.com/Agile-Professionals/Find-Agile-Professionals/ctl/UserDetails/mid/938/uid/f8fbef70-5851-4263-baf2-1c2e18b8d86a"
+  date_start = "2019-03-09"
   date_end = ""
   description = ""
 
