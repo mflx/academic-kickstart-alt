@@ -64,9 +64,10 @@ Things I do:
 * Coaching and Consulting in agile Product Management, Product Strategy and Scaling
 * Systemic Business Coaching
 * Trainings in [Agile Product Management and Product Leadership](https://www.leanovate.de/training/produkt/)
-* [Agile Camp Berlin](https://agile-camp-berlin.com/) team member
 
-Background in Philosophy, Political Science, Economics, Systems Thinking.
+
 Trained as Systemic Business Coach (University of Applied Science Wismar) and as [part of my professional development](https://martinstahl.info/about/) certified by Scrum Alliance, Kanban University, Scrum.org, ICAgile and others. 
+Background in Philosophy, Political Science, Economics, Systems Thinking.
 
-Besides that I run [Faluma Music](https://www.faluma.com) - a music label for the sound of the Caribbean Carnival. Also find my [personal blog here](https://koffi.club).
+
+Besides that I run [Faluma Music](https://www.faluma.com) - a music label for the sound of the Caribbean Carnival. Also find my [personal blog here](https://koffi.club). Proud [Agile Camp Berlin](https://agile-camp-berlin.com/) team member.
