@@ -18,7 +18,7 @@ organizations:
   url: "https://www.leanovate.de"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Product Manager and Product Lead in Startups for over a decade. Now Coaching, Training and Consulting for Digital Product Management.
+bio: Digital Product Strategist and Product Lead in Startups for over a decade. Now Coaching, Training and Consulting for Digital Product Management.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -57,14 +57,14 @@ user_groups:
 - Visitors
 ---
 
-Digital Product Manager and Product Lead in Startups for over a decade. Now Coaching and Consulting Lead at Leanovate, Berlin.
+Digital Product Strategist and Product Lead in Startups for over a decade. Now Coaching and Consulting Lead at Leanovate, Berlin.
 
 Things I do:
 
-* Coaching and Consulting in Product Management, Product Strategy, Scaling
-* Trainings in [Agile Product Management and Product Leadership](https://www.leanovate.de/training/produkt/)
+* Coaching and Consulting in agile Product Management, Product Strategy and Scaling
 * Systemic Business Coaching
-* [Agile Camp Berlin](https://agile-camp-berlin.com/) founding team member
+* Trainings in [Agile Product Management and Product Leadership](https://www.leanovate.de/training/produkt/)
+* [Agile Camp Berlin](https://agile-camp-berlin.com/) team member
 
 Background in Philosophy, Political Science, Economics, Systems Thinking.
 
