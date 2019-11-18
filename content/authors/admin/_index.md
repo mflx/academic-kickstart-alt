@@ -57,7 +57,7 @@ user_groups:
 - Visitors
 ---
 
-Digital Product Strategist and Product Lead in Startups for over a decade. Now Coaching and Consulting Lead at Leanovate, Berlin.
+Digital Product Strategist and Product Lead in Startups for over a decade. Currently Coaching and Consulting Lead at Leanovate, Berlin.
 
 Things I do:
 
@@ -67,5 +67,6 @@ Things I do:
 * [Agile Camp Berlin](https://agile-camp-berlin.com/) team member
 
 Background in Philosophy, Political Science, Economics, Systems Thinking.
+Trained and certified Systemic Business Coach (University of Applied Science Wismar), Certified Scrum Professional (Scrum-Alliance), Kanban Management Professional (Kanban University), Business Agility (ICAgile) and more. 
 
 Besides that I run [Faluma Music](https://www.faluma.com) - a music label for the sound of the Caribbean Carnival. Also find my [personal blog here](https://koffi.club).
