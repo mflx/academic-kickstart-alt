@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-10-26"
   date_end = ""
-  description = "Systemic Coaching process based on the Kepner- & Tregoe method the self-learning Rubikon modell based on Heckhausen."
+  description = "Systemic Business Coaching based on the Kepner- & Tregoe method and the self-learning Rubikon model (Heckhausen)."
 
 
 [[item]]
@@ -39,7 +39,6 @@ date_format = "Jan 2006"
   date_start = "2017-11-01"
   date_end = ""
   description = "Certified Scrum Professionals challenge their teams to improve the way Scrum and Agile principles are applied. They have demonstrated experience, documented training, and proven knowledge in Scrum."
-
   
 [[item]]
   organization = "Kanban University"
@@ -52,13 +51,33 @@ date_format = "Jan 2006"
   description = "I: The core of kanban practices to design and evolve a kanban system. II: Manage and evolve a kanban initiative. Scale beyond the team level."
   
 [[item]]
+  organization = "Agendashift"
+  organization_url = "https://www.agendashift.com/"
+  title = "Agendashift (Training)"
+  url = ""
+  certificate_url = "https://edu.leankanban.com/user/22795/4207/148/certificate"
+  date_start = "2019-11-14"
+  date_end = ""
+  description = "From the exciting intersection of Lean-Agile, Strategy, and Organisation Development, an engagement model fit for the 21st century: need-based, outcome-oriented, continuous and open. Training by Mike Burrows. "  
+  
+[[item]]
   organization = "ICAgile"
   organization_url = "https://icagile.com"
-  title = "ICAgile Certified Professional - Business Agility Foundations"
+  title = "Shiftup / Business Agility Foundations"
   url = ""
   certificate_url = "https://icagile.com/Agile-Professionals/Find-Agile-Professionals/ctl/UserDetails/mid/938/uid/f8fbef70-5851-4263-baf2-1c2e18b8d86a"
   date_start = "2019-03-09"
   date_end = ""
-  description = "The Shiftup Business Agility & Innovation Leader - applying Lean-Agile thinking to all aspects of business innovation."
+  description = "The Shiftup Business Agility & Innovation Leader - applying Lean-Agile thinking to all aspects of business innovation. Training by Jurgen Apello."
+
+[[item]]
+  organization = "Kanban University"
+  organization_url = "https://kanban.university"
+  title = "Enterprise Services Planning"
+  url = "https://leankanban.com/enterprise/"
+  certificate_url = "https://edu.leankanban.com/user/22795/4207/148/certificate"
+  date_start = "2018-03-05"
+  date_end = ""
+  description = "Enterprise strategy, planning and risk management in an uncertain world. Aligning strategy with our market and capability; Fitness Criteria; Modern KPIs; Anti-Fragility. "
 
 +++
