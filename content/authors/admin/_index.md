@@ -67,6 +67,6 @@ Things I do:
 * [Agile Camp Berlin](https://agile-camp-berlin.com/) team member
 
 Background in Philosophy, Political Science, Economics, Systems Thinking.
-Trained and certified Systemic Business Coach (University of Applied Science Wismar), Certified Scrum Professional (Scrum-Alliance), Kanban Management Professional (Kanban University), Business Agility (ICAgile) and more. 
+Trained as Systemic Business Coach (University of Applied Science Wismar) and as [part of my professional development](https://martinstahl.info/about/) certified by Scrum Alliance, Kanban University, Scrum.org, ICAgile and others. 
 
 Besides that I run [Faluma Music](https://www.faluma.com) - a music label for the sound of the Caribbean Carnival. Also find my [personal blog here](https://koffi.club).
