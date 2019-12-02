@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://thirsty-brown-fc0b1e.netlify.com/* https://www.martinstahl.info/:splat 301!
