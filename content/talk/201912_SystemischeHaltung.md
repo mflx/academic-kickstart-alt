@@ -15,7 +15,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2019-12-02T00:00:00Z"
 
-authors: [Martin],[Heike]
+authors: [Martin][Heike]
 tags: [coaching, systemisch, agile]
 
 # Is this a featured talk? (true/false)
