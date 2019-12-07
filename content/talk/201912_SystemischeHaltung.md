@@ -15,7 +15,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2019-12-02T00:00:00Z"
 
-authors: [Martin]
+authors: [Martin],[Heike]
 tags: [coaching, systemisch, agile]
 
 # Is this a featured talk? (true/false)
@@ -28,7 +28,7 @@ image:
 links:
 - icon: twitter
   icon_pack: fab
-  name: Martin
+  name: Heike
   url: https://twitter.com/hemba
 
 - icon: twitter
