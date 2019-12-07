@@ -3,7 +3,7 @@ title: Systemische Haltung für Agile Coaches
 event: Agile Tapas Meetup
 event_url: https://www.meetup.com/de-DE/Agile-Tapas/events/266581037/
 location: Berlin
-summary: Systemischtheorie und Konstruktivismus als Basis für die Haltung für Agile Coach?
+summary: Systemtheorie und Konstruktivismus als Basis für die Haltung für Agile Coaches?
 abstract: "Wie verträgt sich die systemische Haltung mit Agile Coaching, wo ergänzt sie?"
 
 # Talk start and end times.
