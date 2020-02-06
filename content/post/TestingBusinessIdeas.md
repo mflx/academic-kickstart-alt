@@ -12,10 +12,7 @@ comments: false  # Show comments?
 header:
   caption: "Testing Business Ideas on my desk."
   image: "testing-business-40049.jpg"
-
-
 ---
-
 
 Many companies in the digital area often fail due to missing mechanisms for a continuous innovation of the product or product portfolio. The bets placed are too high and a strategic focus with a structured risk assessment does not take place. 
 
