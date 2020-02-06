@@ -1,5 +1,5 @@
 ---
-title: Book: Testing Business Ideas 
+title: Testing Business Ideas (Book)
 summary: Review of the new book by Strategyzer / Alex Osterwalder
 date: "2020-02-05T00:00:00Z"
 
@@ -22,5 +22,5 @@ In "Testing Business Ideas", the focus is sharpened on the fact that every busin
 The book offers a comprehensive toolbox for this purpose, which should suit every business situation. 
 
 
-David J. Bland, Alexander Osterwalder (2019): Testing Business Ideas. 
-https://www.strategyzer.com/books/testing-business-ideas-david-j-bland
+* David J. Bland, Alexander Osterwalder (2019): Testing Business Ideas. 
+* [Book landing page on Strategyzer](https://www.strategyzer.com/books/testing-business-ideas-david-j-bland)
