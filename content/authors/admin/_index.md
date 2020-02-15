@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Martin
+name: Martin Stahl
 
 # Username (this should match the folder name)
 authors:
@@ -57,7 +57,7 @@ user_groups:
 - Visitors
 ---
 
-Digital Product Strategist and Product Lead in Startups for over a decade. Currently Coaching and Consulting Lead at Leanovate, Berlin.
+Digital Product Manager, Strategist and Lead at startups for over a decade. Currendly residing in Berlin.
 
 Things I do:
 
