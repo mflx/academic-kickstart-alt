@@ -18,7 +18,7 @@ organizations:
   url: "https://www.leanovate.de"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Digital Product Strategist and Product Lead in Startups for over a decade. Now Coaching, Training and Consulting for Digital Product Management.
+bio: Digital Product Manager and Product Lead in Startups for over a decade. Now Coaching, Training and Consulting for Digital Product Management.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -57,7 +57,7 @@ user_groups:
 - Visitors
 ---
 
-Digital Product Manager, Strategist and Lead at startups for over a decade. Currendly residing in Berlin.
+Digital Product Manager and Lead with over 10 years experience in the Berlin start-up world.
 
 Things I do:
 
