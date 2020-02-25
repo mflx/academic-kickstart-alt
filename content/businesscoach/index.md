@@ -25,7 +25,15 @@ Currently Business Coaching sessions are only available in German.
 
 Ein Businesscoaching begleitet bei allen berufs- oder karrierebezogenen Themen, wie z.B.
 
-Berufliche Veränderung, Stärken und Schwächen, (Selbst-) Reflexion insb. beruflicher Herausforderungen, Führung, Work-Life-Balance, Optimierung der Außenwirkung, Laufbahnentscheidungen, Visionsarbeit, Umgang mit Change, Herausforderungen im Team, uvm.
+* Berufliche Veränderung, 
+* Stärken und Schwächen, 
+* (Selbst-) Reflexion insb. beruflicher Herausforderungen, 
+* Führung, 
+* Work-Life-Balance, 
+* Laufbahnentscheidungen, 
+* Visionsarbeit, 
+* Umgang mit Change, 
+* Herausforderungen im Team, uvm.
 
 In meiner Rolle als Coach bin ich dein Prozessbegleiter und Fragensteller, eine dezidierte fachliche Beratung findet nicht (oder nur in vorheriger Absprache) statt.
 
