@@ -9,11 +9,6 @@
   weight = 10
 
 [[main]]
-  name = "Coaching"
-  url = "businesscoach/"
-  weight = 15
-
-[[main]]
   name = "Posts"
   url = "#posts"
   weight = 20
@@ -22,6 +17,11 @@
   name = "Sessions"
   url = "#talks"
   weight = 30
+  
+ [[main]]
+  name = "Coaching"
+  url = "businesscoach/"
+  weight = 35 
 
 [[main]]
   name = "Miniblog ➚"
