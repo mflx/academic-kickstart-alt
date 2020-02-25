@@ -14,8 +14,6 @@ header:
   image: ""
 ---
 
-# Systemisches Business Coaching
-
 Wir bieten für berufliche Themen ein systemisches Business Coaching an. Im Coaching erarbeiten wir gemeinsam eine Zielsetzung und schauen uns an, wie du mit deinen Möglichkeiten und Stärken zu einer befriedigenden und nachhaltigen Lösung kommst.
 
 {{% alert note %}}
@@ -29,8 +27,9 @@ Ein Businesscoaching begleitet bei allen berufs- oder karrierebezogenen Themen, 
 
 Berufliche Veränderung, Stärken und Schwächen, (Selbst-) Reflexion insb. beruflicher Herausforderungen, Führung, Work-Life-Balance, Optimierung der Außenwirkung, Laufbahnentscheidungen, Visionsarbeit, Umgang mit Change, Herausforderungen im Team, uvm.
 
-In meiner Rolle als dein Coach bin ich reiner Prozessbegleiter und Fragensteller, eine fachliche Beratung findet nicht (oder nur in vorheriger Absprache) statt.
+In meiner Rolle als Coach bin ich dein Prozessbegleiter und Fragensteller, eine dezidierte fachliche Beratung findet nicht (oder nur in vorheriger Absprache) statt.
 
+--
 
 ## Das erwartet dich: so ist das Coaching aufgebaut
 
@@ -42,6 +41,7 @@ Die Coachingsessions sind durch fünf Phasen strukturiert:
 4. Verhaltens- und Lösungsmöglichkeiten herausarbeiten
 5.  Abschluss / Controlling / Review
 
+--
 
 ## Wie lange geht das Coaching?
 
