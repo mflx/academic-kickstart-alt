@@ -55,11 +55,11 @@ math: false
 ---
 
 Acht Dinge, die ich in 10+ Jahren Produktentwicklung in schnell wachsenden Startups gelernt habe:
-* Jedes Kundenfeedback ist ein gutes Feedback
-* Fokus, Fokus, Fokus
-* Kenne deine Metriken
-* Kenne deine Wertschöpfungskette und baue deine Organisation danach
-* Denke systemisch und handle danach
-* Komplexität ist geil, aber lass den Kunden damit in Ruhe
-* F*** the buzzword: „Agile“ ist das Mindset, wie wir Dinge richtig tun, der Rest ist nur Schabernack
-* Sei mutig und tue es einfach!
+- Jedes Kundenfeedback ist ein gutes Feedback
+- Fokus, Fokus, Fokus
+- Kenne deine Metriken
+- Kenne deine Wertschöpfungskette und baue deine Organisation danach
+- Denke systemisch und handle danach
+- Komplexität ist geil, aber lass den Kunden damit in Ruhe
+- F*** the buzzword: „Agile“ ist das Mindset, wie wir Dinge richtig tun, der Rest ist nur Schabernack
+- Sei mutig und tue es einfach!
