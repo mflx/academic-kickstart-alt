@@ -4,7 +4,7 @@ event: UDK Master's Breakout session
 event_url: 
 location: Berlin, Germany
 summary: Acht Dinge, die ich in 10+ Jahren Produktentwicklung in schnell wachsenden Startups gelernt habe.
-abstract: "Breakout session für den Master-Studiengang 'Leadership in digitaler Innovation' an der UDK Berlin."
+abstract: "Breakout-Seminar für den Master-Studiengang '[Leadership in digitaler Innovation](https://www.udk-berlin.de/studium/leadership-in-digitaler-innovation/)' an der UDK Berlin."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -55,11 +55,12 @@ math: false
 ---
 
 Acht Dinge, die ich in 10+ Jahren Produktentwicklung in schnell wachsenden Startups gelernt habe:
-- Jedes Kundenfeedback ist ein gutes Feedback
-- Fokus, Fokus, Fokus
-- Kenne deine Metriken
-- Kenne deine Wertschöpfungskette und baue deine Organisation danach
-- Denke systemisch und handle danach
-- Komplexität ist geil, aber lass den Kunden damit in Ruhe
-- F*** the buzzword: „Agile“ ist das Mindset, wie wir Dinge richtig tun, der Rest ist nur Schabernack
-- Sei mutig und tue es einfach!
+
+1. Jedes Kundenfeedback ist ein gutes Feedback
+2. Fokus, Fokus, Fokus
+3. Kenne deine Metriken
+4. Kenne deine Wertschöpfungskette und baue deine Organisation danach
+5. Denke systemisch und handle danach
+6. Komplexität ist geil, aber lass den Kunden damit in Ruhe
+7. F*** the buzzword: „Agile“ ist das Mindset, wie wir Dinge richtig tun, der Rest ist nur Schabernack
+8. Sei mutig und tue es einfach!
