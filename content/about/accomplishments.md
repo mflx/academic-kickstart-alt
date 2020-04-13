@@ -18,6 +18,27 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[item]]
+  organization = "Scrum Alliance"
+  organization_url = "https://www.scrumalliance.org"
+  title = "Certified Agile Leadership (CAL I)"
+  url = "https://www.scrumalliance.org/get-certified/agile-leadership/cal-1"
+  certificate_url = "http://bcert.me/sejzzxbsy"
+  date_start = "2020-04-09"
+  date_end = ""
+  description = "The goal of CAL I is to bring awareness of agile leadership thinking, focus, and behaviors; and to start (or meet where they are) the agile leader on their learning journey."  
+
+
+[[item]]
+  organization = "Scrum.org"
+  organization_url = "https://www.scrum.org"
+  title = "Professional Scrum with Kanban (PSK)"
+  url = "https://www.scrum.org/resources/suggested-reading-professional-scrum-kanban"
+  certificate_url = "https://www.scrum.org/user/251980"
+  date_start = "2019-09-08"
+  date_end = ""
+  description = "The Professional Scrum with Kanban (PSK I) certification validates knowledge of how Scrum Teams can use Scrum with Kanban to support value creation, measurement, and delivery."  
+
 
 [[item]]
   organization = "University of Applied Sciences Wismar"
@@ -80,14 +101,27 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Enterprise strategy, planning and risk management in an uncertain world. Aligning strategy with our market and capability; Fitness Criteria; Modern KPIs; Anti-Fragility. "
   
+
 [[item]]
-  organization = "Scrum Alliance"
-  organization_url = "https://www.scrumalliance.org"
-  title = "Certified Agile Leadership I (CAL I)"
-  url = "https://www.scrumalliance.org/get-certified/agile-leadership/cal-1"
-  certificate_url = "http://bcert.me/sejzzxbsy"
-  date_start = "2020-04-09"
+  organization = "Scrum.org"
+  organization_url = "https://www.scrum.org"
+  title = "Professional Scrum Master (PSM I)"
+  url = "https://www.scrum.org/professional-scrum-master-i-certification"
+  certificate_url = "https://www.scrum.org/user/251980"
+  date_start = "2017-05-18"
   date_end = ""
-  description = "The goal of CAL I is to bring awareness of agile leadership thinking, focus, and behaviors; and to start (or meet where they are) the agile leader on their learning journey."  
+  description = "The Professional Scrum Master I (PSM I) certification demonstrates a fundamental level of Scrum mastery. PSM I certificate holders prove that they understand Scrum as described in the Scrum Guide and how to apply Scrum in Scrum Teams."  
+  
+
+[[item]]
+  organization = "Scrum.org"
+  organization_url = "https://www.scrum.org"
+  title = "Professional Scrum Product Owner I"
+  url = "https://www.scrum.org/professional-scrum-product-owner-certifications"
+  certificate_url = "https://www.scrum.org/user/251980"
+  date_start = "2019-09-13"
+  date_end = ""
+  description = "The Professional Scrum Product Owner I (PSPO I) demonstrates an intermediate understanding of the Scrum framework, and how to apply it to maximize the value delivered with a product"  
+  
 
 +++
