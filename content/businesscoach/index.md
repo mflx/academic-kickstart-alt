@@ -20,9 +20,9 @@ Wir bieten für berufliche und karrierebezogene Themen ein Business Coaching mit
 Currently Business Coaching sessions are only available in German.
 {{% /alert %}}
 
-Wir sind Mitglied in der International Coach Federation und arbeiten unter deren (Code of Ethics)[https://coachfederation.org/code-of-ethics-overview].
+Wir sind Mitglied in der International Coach Federation und arbeiten unter deren [Code of Ethics](https://coachfederation.org/code-of-ethics-overview).
 
-![ICF Logo 25yrs](ICF_25Years_Color.png)
+![ICF Logo 25yrs](https://www.martinstahl.info/img/ICF_25Years_Color.png)
 
 
 ## Was sind typische Themen und Fragestellungen für dein Business Coaching?
