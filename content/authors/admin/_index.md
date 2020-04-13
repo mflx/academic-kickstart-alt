@@ -67,6 +67,6 @@ Things I do:
 
 
 Trained Systemic Business Coach (University of Applied Science Wismar) and as part of my professional development certified by Scrum Alliance, Kanban University, Scrum.org, ICAgile and others. Background in Philosophy, Political Science and Economics.
-
+Member of Scrum Alliance and International Coach Federation.
 
 Besides that I run [Faluma Music](https://www.faluma.com) - a music label for the sound of the Caribbean Carnival. Also find my [personal blog here](https://koffi.club). Proud [Agile Camp Berlin](https://agile-camp-berlin.com/) team member.
