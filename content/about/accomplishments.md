@@ -79,5 +79,15 @@ date_format = "Jan 2006"
   date_start = "2018-03-05"
   date_end = ""
   description = "Enterprise strategy, planning and risk management in an uncertain world. Aligning strategy with our market and capability; Fitness Criteria; Modern KPIs; Anti-Fragility. "
+  
+[[item]]
+  organization = "Scrum Alliance"
+  organization_url = "https://www.scrumalliance.org"
+  title = "Certified Agile Leadership I (CAL I)"
+  url = "https://www.scrumalliance.org/get-certified/agile-leadership/cal-1"
+  certificate_url = "http://bcert.me/sejzzxbsy"
+  date_start = "2020-04-09"
+  date_end = ""
+  description = "The goal of CAL I is to bring awareness of agile leadership thinking, focus, and behaviors; and to start (or meet where they are) the agile leader on their learning journey."  
 
 +++
