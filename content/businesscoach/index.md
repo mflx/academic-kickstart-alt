@@ -14,11 +14,15 @@ header:
   image: ""
 ---
 
-Wir bieten für berufliche Themen ein systemisches Business Coaching an. Im Coaching erarbeiten wir gemeinsam eine Zielsetzung und schauen uns an, wie du mit deinen Möglichkeiten und Stärken zu einer befriedigenden und nachhaltigen Lösung kommst.
+Wir bieten für berufliche und karrierebezogene Themen ein Business Coaching mit systemischen und lösungsfokussierten Ansatz an. Im Coaching erarbeiten wir gemeinsam eine Zielsetzung und schauen uns an, wie du mit deinen Möglichkeiten und Stärken zu einer befriedigenden und nachhaltigen Lösung kommst.
 
 {{% alert note %}}
 Currently Business Coaching sessions are only available in German.
 {{% /alert %}}
+
+Wir sind Mitglied in der International Coach Federation und arbeiten unter deren (Code of Ethics)[https://coachfederation.org/code-of-ethics-overview].
+
+![ICF Logo 25yrs](ICF_25Years_Color.png)
 
 
 ## Was sind typische Themen und Fragestellungen für dein Business Coaching?
