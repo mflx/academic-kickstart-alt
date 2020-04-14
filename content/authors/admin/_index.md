@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Coaching and Consulting Lead
+role: Head of Coaching and Consulting
 
 # Organizations/Affiliations
 organizations:
@@ -62,7 +62,7 @@ Digital Product Manager and Lead with over 10 years experience in the Berlin sta
 Things I do:
 
 * Coaching and Consulting in agile Product Management, Product Strategy and Scaling
-* Systemic Business Coaching
+* [Systemic Business Coaching](https://www.martinstahl.info/businesscoach/)
 * Trainings in [Agile Product Management and Product Leadership](https://www.leanovate.de/training/produkt/)
 
 
