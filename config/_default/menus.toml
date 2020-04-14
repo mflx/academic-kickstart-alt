@@ -8,20 +8,20 @@
   url = "#about"
   weight = 10
 
+ [[main]]
+  name = "Coaching"
+  url = "businesscoach/"
+  weight = 35 
+
 [[main]]
   name = "Posts"
-  url = "#posts"
+  url = "post/"
   weight = 20
 
 [[main]]
   name = "Sessions"
   url = "#talks"
   weight = 30
-  
- [[main]]
-  name = "Coaching"
-  url = "businesscoach/"
-  weight = 35 
 
 [[main]]
   name = "Miniblog ➚"
