@@ -62,7 +62,7 @@ Digital Product Manager and Lead with over 10 years experience in the Berlin sta
 Things I do:
 
 * Coaching and Consulting in agile Product Management, Product Strategy and Scaling
-* [Systemic Business Coaching](businesscoach/)
+* [Systemic Business Coaching](businesscoach)
 * Trainings in [Agile Product Management and Product Leadership](https://www.leanovate.de/training/produkt/)
 
 
