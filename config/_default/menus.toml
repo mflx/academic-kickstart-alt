@@ -11,12 +11,12 @@
  [[main]]
   name = "Coaching"
   url = "businesscoach/"
-  weight = 35 
+  weight = 20 
 
 [[main]]
   name = "Posts"
   url = "post/"
-  weight = 20
+  weight = 25
 
 [[main]]
   name = "Sessions"
