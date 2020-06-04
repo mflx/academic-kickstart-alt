@@ -13,6 +13,7 @@ header:
   caption: ""
   image: ""
 ---
+Du möchtest was bewegen und im beruflichen Umfeld / Karriere etwas verändern?
 
 Wir bieten für berufliche und karrierebezogene Themen ein Business Coaching mit systemischen und lösungsfokussierten Ansatz an. Im Coaching erarbeiten wir gemeinsam eine Zielsetzung und schauen uns an, wie du mit deinen Möglichkeiten und Stärken zu einer befriedigenden und nachhaltigen Lösung kommst.
 
